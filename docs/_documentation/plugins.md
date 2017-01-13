@@ -20,7 +20,11 @@ bare plugin inside of Zazu and work in the directory Zazu created itself. For
 instance if you installed `tinytacoteam/zazu-template` it would be located in
 `~/.zazu/plugins/tinytacoteam/zazu-template` and if you have GIT installed
 locally, this will have `origin` setup. Once you make your changes you can tell
-Zazu to `Reload Configuration` to see your change appear in Zazu.
+Zazu to `Reload Configuration` to see your changes appear in Zazu.
+
+It is a convention that plugins start with the name `zazu-`. For example if you
+are making a plugin that tells you sports ball stats, you could name it
+`zazu-sports-ball`.
 
 ## Plugin Overview
 

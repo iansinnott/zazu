@@ -38,3 +38,8 @@ some inspiration.
 
 Just add your relative path to your GitHub repo inside of your [personal
 configuration](/documentation/configuration/#theme).
+
+## Naming your theme
+
+It is a convention that themes are named with the prefix `zazu-`. For example if you are
+creating a steam punk theme you could name it `zazu-steam-punk`.
