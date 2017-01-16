@@ -1,4 +1,11 @@
 {
+  "name": "zazu",
+  "version": "0.3.2-eb",
+  "description": "A cross platform productivity application.",
+  "email": "zazu-app@googlegroups.com",
+  "author": "Tiny Taco Team <zazu-app@googlegroups.com>",
+  "homepage": "http://zazuapp.org",
+  "license": "MIT",
   "main": "background.js",
   "dependencies": {
     "auto-launch": "^2.1.0",
