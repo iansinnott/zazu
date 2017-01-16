@@ -10,10 +10,11 @@ install:
   - npm install
 
 test_script:
+  - printenv
   - node --version
   - npm --version
-  - npm run release
   - npm run cucumber
   - npm test
+  - npm run release
 
 build: off
