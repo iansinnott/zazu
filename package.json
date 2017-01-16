@@ -1,6 +1,11 @@
 {
-  "email": "blainesch@gmail.com",
+  "version": "0.3.2",
+  "email": "zazu-app@googlegroups.com",
   "homepage": "http://zazuapp.org",
+  "license": "MIT",
+  "homepage": "http://zazuapp.org",
+  "name": "zazu",
+  "description": "A cross platform productivity application.",
   "build": {
     "publish": ["github"],
     "appId": "TinyTacoTeam.ZazuApp",
@@ -15,9 +20,7 @@
       "installerHeaderIcon": "resources/windows/setup-icon.ico"
     },
     "mac": {
-      "target": [
-        "dmg"
-      ],
+      "target": [ "dmg" ],
       "icon": "resources/osx/icon.icns",
       "category": "public.app-category.productivity"
     },
