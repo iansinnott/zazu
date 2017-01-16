@@ -1,4 +1,5 @@
 {
+  "main": "background.js",
   "dependencies": {
     "auto-launch": "^2.1.0",
     "babel-register": "^6.18.0",
