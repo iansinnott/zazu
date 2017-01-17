@@ -1,5 +1,5 @@
 {
-  "version": "v0.3.2-be",
+  "version": "v0.3.2-beb",
   "build": {
     "publish": ["github"],
     "appId": "TinyTacoTeam.ZazuApp",
@@ -14,10 +14,10 @@
       "installerHeaderIcon": "resources/windows/setup-icon.ico"
     },
     "linux": {
-      "target": ["deb", "rpm"]
+      "target": ["deb"]
     },
     "mac": {
-      "target": [ "dmg" ],
+      "target": ["dmg"],
       "icon": "resources/osx/icon.icns",
       "category": "public.app-category.productivity"
     },
