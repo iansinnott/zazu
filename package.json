@@ -1,5 +1,5 @@
 {
-  "version": "v0.3.2-ebbb",
+  "version": "v0.3.2-be",
   "build": {
     "publish": ["github"],
     "appId": "TinyTacoTeam.ZazuApp",
